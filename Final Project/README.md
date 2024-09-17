@@ -34,7 +34,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 * Functional specifications are defined
 * Roles and responsibilities have been established.
 * The test plan has been created.
-* Initial project risks where identified and defined.
+* Initial project risks were identified and defined.
 
 
 #### 1.1.3 Exit criteria defined
