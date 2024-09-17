@@ -39,6 +39,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.3 Exit criteria defined
 * All tests from the plan have been completed.
+* Number of unresolved bugs is insignificant or they have low priority
 * All bugs were identified, documented, and resolved if was possible.
 * Created and reviewed test reports and documentation.
 * Business documentation was covered and met.
