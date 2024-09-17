@@ -73,7 +73,7 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 ## 1.2 Test Monitoring and Control
 
-Regular tests status reports will be generated to reflect testing progress and identify new project risk for mitigation.
+Regular tests status reports will be generated weekly to reflect testing progress and identify new project risk for mitigation.
 
 ## 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
