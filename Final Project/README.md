@@ -47,7 +47,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 
 #### 1.1.4 Test scope
-* **Tests in scope:** Successfully obtaining a product purchase by successfully completing the product selection and to add them to the cart and add vouchers if the case.
+* **Tests in scope:** All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing and GUI testing. Successfully obtaining a product purchase by completing the product selection and to add them to the cart and add vouchers if the case.
 * **Tests not in scope:** Non-functional testing encompasses performance, security, and compatibility testing;Payment steps are not tested;Testing on specific hardware configurations or devices;Testing functionalities that refer to other types of account options or products (except: “Huse”);Automated testing is not covered.
 
 Aici am ramas:
