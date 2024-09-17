@@ -11,7 +11,7 @@ Am analiza acestui template inregsitrat  in curs w2 sapt 2 de la tm  in minutul 
 
 # Functional specifications
 
-The below Story was created in JIRA and describes the functional specifications of the Huse category, for which the final project is performed upon.
+The below Story was created in JIRA and describes the functional specifications of the Huse module, for which the final project is performed upon.
 
 **Trebuie completat dupa ce fac in Jira** - -> enter here the functional specifications created in JIRA
 
