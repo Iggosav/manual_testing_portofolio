@@ -71,14 +71,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 #### 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
-
-
-Aici am ramas:
-
-
 ## 1.2 Test Monitoring and Control
 
-am explicat de vasilica in minutl 02:17:: 24 sec =====It will be done by generating periodic reports that reflect the current status of the test.  - s ama inspir din proiectul d eja facut 
+Regular tests status reports will be generated to reflect testing progress and identify new project risk for mitigation.
 
 ## 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
