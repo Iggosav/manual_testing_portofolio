@@ -50,15 +50,31 @@ The plan identifies the items to be tested, the features to be tested, the types
 * **Tests in scope:** All the feature of Huse module which were defined in software requirement specifications need to be tested: functional testing and GUI testing. Successfully obtaining a product purchase by completing the product selection and to add them to the cart and add vouchers if the case.
 * **Tests not in scope:** Non-functional testing encompasses performance, security, and compatibility testing;Payment steps are not tested;Testing on specific hardware configurations or devices;Testing functionalities that refer to other types of account options or products (except: “Huse”);Automated testing is not covered.
 
-Aici am ramas:
-
 
 #### 1.1.5 Risks detected
-* Project risks: 
-* Product risks:
+
+**Project risks:**
+  
+* *Resource Constraints:* Insufficient skilled personnel, such as developers, testers, or subject matter experts, could hinder project progress and quality.
+* *Budget Overruns:* Exceeding the allocated budget due to incorrect cost estimations, unforeseen expenses, or insufficient resources allocation.
+* *Communication Challenges:* Inadequate communication and coordination among project stakeholders, including testers, the development team, and company representatives, may result in misunderstandings, misalignment, and decision-making delays.
+* *Scope limitation:* Frequent changes in project scope without thorough assessment and impact analysis might disrupt project schedules, resource allocation, and deliverables.
+  
+**Product risks:**
+  
+* *Incomplete or Inaccurate Content:* Presence of inaccuracies, incomplete details, or outdated content on the website could adversely affect the overall user experience.
+* *Security Vulnerability:* Existence of vulnerabilities within the application might expose user data, compromising the platform’s security and trust.
+* *Performance Challenges:* Possibility of delays in processing user actions, slow page loading times, or inadequate performance during periods of high traffic.
+* *Compatibility Issues:* Potential compatibility conflicts with major web browsers, operating systems, or devices may cause usability challenges for certain users.
+* *Functional Deficiencies:* Risk that implemented functionalities may not fully meet the expected requirements, potentially resulting in user dissatisfaction or negative experiences.
 
 #### 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+
+
+
+Aici am ramas:
+
 
 ## 1.2 Test Monitoring and Control
 
