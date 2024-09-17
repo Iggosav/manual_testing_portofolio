@@ -31,6 +31,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.2 Entry criteria defined
 * Business documentation should be available.
+* Functional specifications are defined
 * Roles and responsibilities have been established.
 * The test plan has been created.
 * Initial project risks where identified and defined.
