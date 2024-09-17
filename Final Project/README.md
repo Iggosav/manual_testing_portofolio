@@ -78,7 +78,7 @@ Aici am ramas:
 
 ## 1.2 Test Monitoring and Control
 
-=====It will be done by generating periodic reports that reflect the current status of the test.  - s ama inspir din proiectul d eja facut 
+am explicat de vasilica in minutl 02:17:: 24 sec =====It will be done by generating periodic reports that reflect the current status of the test.  - s ama inspir din proiectul d eja facut 
 
 ## 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
