@@ -80,7 +80,7 @@ Based on the above requirements, for the Huse module, the testing process will b
 
 *	Ensure the correct main interface is displayed. 
 * Verify the “ Huse Menu” button and ensure the Huse module is created/updated.
-* Make sure that the next buttons from Huse module are functional: “Arata filtre”, Sorteaza dupa” and “Adauga in cos”.
+* Make sure that the next buttons from Huse module are functional: “Filtre”, Sorteaza dupa” and “Adauga in cos”.
 * Enter data for the required field to choose the desired quantity of the product and check if it is correctly registered.
 * Make sure that the next buttons from Huse module are functional: “Continua cumparaturile”, “Actualizeaza cosul”, “Cod cupon”, “Aplica cupon and “Continua cu finalizarea comenzii”.
 
