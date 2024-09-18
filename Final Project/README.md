@@ -76,9 +76,17 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 Regular tests status reports will be generated weekly to reflect testing progress and identify new project risk for mitigation.
 
 ## 1.3 Test Analysis
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+Based on the above requirements, for the Huse module, the testing process will be executed based on the following test conditions:
 
-======Enter test conditions here - sa ma inspir din proiectul deja facut 
+•	Ensure the correct main interface is displayed. 
+•	Verify the “Menu” button and ensure the Huse module is created/updated.
+•	Make sure that the next buttons from Huse module are functional: “Arata filtre”, Sorteaza dupa” and “Adauga in cos”.
+•	Enter data for the required field to choose the desired quantity of the product and check if it is correctly registered.
+•	Make sure that the next buttons from Huse module are functional: “Continua cumparaturile”, “Actualizeaza cosul”, “Cod cupon”, “Aplica cupon and “Continua cu finalizarea comenzii”.
+
+
+AICI am RAMAS sa ma iau dupa model din ghid hib
+
 
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are: ===== sa ma inspir din cel deja facut 
