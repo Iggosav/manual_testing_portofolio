@@ -85,7 +85,7 @@ Based on the above requirements, for the Huse module, the testing process will b
 •	Make sure that the next buttons from Huse module are functional: “Continua cumparaturile”, “Actualizeaza cosul”, “Cod cupon”, “Aplica cupon and “Continua cu finalizarea comenzii”.
 
 
-AICI am RAMAS sa ma iau dupa model din ghid hib
+AICI AM RAMAS sa ma iau dupa model din ghid hib
 
 
 ## 1.4 Test Design
