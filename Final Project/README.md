@@ -79,9 +79,9 @@ Regular tests status reports will be generated weekly to reflect testing progres
 Based on the above requirements, for the Huse module, the testing process will be executed based on the following test conditions:
 
 *	Ensure the correct main interface is displayed. 
-* Verify the “ Huse Menu” button and ensure the Huse module is created/updated.
+* Validate the “ Huse Menu” button and ensure the Huse module is created/updated.
 * Make sure that the next buttons from Huse module are functional: “Filtreaza”, "Sorteaza dupa” and “Adauga in cos”.
-* Enter data for the required field to choose the desired quantity of the product and check if it is correctly registered.
+* Enter data for the required field to choose the desired quantity of the product and validate if it is correctly registered.
 * Make sure that the next buttons from Huse module are functional: “Continua cumparaturile”, “Actualizeaza cosul”, “Cod cupon”, “Aplica cupon and “Plaseaza comanda”.
 
 
