@@ -96,14 +96,10 @@ Based on the above requirements, for the Huse module, the testing process will b
 * Enter data for the required field to choose the desired quantity of the product and validate if it is correctly registered.
 * Make sure that the next buttons from Huse module are functional: “Continua cumparaturile”, “Actualizeaza cosul”, “Aplica cupon and “Plaseaza comanda”.
 
-
-AICI AM RAMAS sa ma iau dupa model din ghid hib
-
-
 ## 1.4 Test Design
-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are: ===== sa ma inspir din cel deja facut 
+Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are: 
 
-======Info luata din template s ama folosesc deele  : Test cases: -> enter here test cases or at least the titles; The test cases with steps can be viewed here: test_cases.pdf (pt acest pdf am link )
+The test cases with steps can be viewed here: [Huse Module access and navigation.csv]() and [Tests Huse module purchase order.csv]()
 
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
