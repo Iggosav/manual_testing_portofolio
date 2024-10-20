@@ -8,12 +8,7 @@ Tools used: JIRA, Zephyr Squad
 
 # Functional specifications
 
-The below Stories were created in JIRA and describe the functional specifications of the Huse module, for which the final project is performed upon.
-
-
-![Final Project/Story 1.JPG]()
-
-
+The below Stories were created in JIRA and describe the functional specifications of the Huse module, for which the final project is performed upon
 
 **Trebuie completat dupa ce fac in Jira** - -> enter here the functional specifications created in JIRA
 
