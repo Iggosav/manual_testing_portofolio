@@ -97,7 +97,12 @@ Based on the above requirements, for the Huse module, the testing process will b
 * Make sure that the next buttons from Huse module are functional: “Continua cumparaturile”, “Actualizeaza cosul”, “Aplica cupon and “Plaseaza comanda”.
 
 ## 1.4 Test Design
-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are: 
+
+*	The Zephyr Squad tool aims to streamline the creation of functional test cases. Techniques such as positive testing, negative testing, and use case testing will be utilized for crafting test cases through specification analysis.
+*	Test scenarios and cases will align with identified acceptance criteria.
+*	Each test case will establish the necessary data and expected outcomes.
+*	Prioritization of test cases will be based on risk and significance.
+
 
 ![TEST LIST 1](https://github.com/user-attachments/assets/45b87f67-6960-41d7-b859-b7b746b91a28)
 
