@@ -8,9 +8,14 @@ Tools used: JIRA, Zephyr Squad
 
 # Functional specifications
 
-The below Stories were created in JIRA and describe the functional specifications of the Huse module, for which the final project is performed upon
+The below 2 Stories were created in JIRA and describe the functional specifications of the Huse module, for which the final project is performed upon
 
-**Trebuie completat dupa ce fac in Jira** - -> enter here the functional specifications created in JIRA
+
+![Story 1](https://github.com/user-attachments/assets/5eb69dc1-1603-4fea-836e-916cb0e0411e)
+
+
+
+![Story 2](https://github.com/user-attachments/assets/92787184-e1fc-4012-8321-fd11a431be47)
 
 # Testing section
 ## 1.1 Test Planning
