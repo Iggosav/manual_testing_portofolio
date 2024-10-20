@@ -6,9 +6,6 @@ Application under test: https://lenjeriidelux-pucioasa.ro
 
 Tools used: JIRA, Zephyr Squad
 
-
-Am analiza acestui template inregsitrat  in curs w2 sapt 2 de la tm  in minutul 02:07 facut discutat cu vasilaica
-
 # Functional specifications
 
 The below Story was created in JIRA and describes the functional specifications of the Huse module, for which the final project is performed upon.
