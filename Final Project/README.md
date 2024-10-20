@@ -79,7 +79,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 11.	The risk of having an unfriendly user interface, causing users to abandon the purchasing process.
 12.	Functionality issues with key elements such as adding to the cart, payment, etc."
 
-(![RISK MATRIX](https://github.com/user-attachments/assets/9371246d-91d8-4963-b00e-7290bc2a98bf))
+![RISK MATRIX](https://github.com/user-attachments/assets/9371246d-91d8-4963-b00e-7290bc2a98bf)
 
 #### 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
@@ -133,17 +133,16 @@ The test cases with steps can be viewed here: [Jira reports/Tests Huse Module ac
 
 Test cases are executed:  [Jira reports/Traceability_matrix.csv]()
 
-(![Traceability](https://github.com/user-attachments/assets/84fc49b7-07cf-446f-b099-bcddf50a1513))
+![Traceability](https://github.com/user-attachments/assets/84fc49b7-07cf-446f-b099-bcddf50a1513)
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Jira reports/BUGS.csv]()
 
-(![BUG 1 1](https://github.com/user-attachments/assets/6fd4e8e5-b3e9-4da7-9f0f-834b7d9d29ce))
+![BUG 1 1](https://github.com/user-attachments/assets/6fd4e8e5-b3e9-4da7-9f0f-834b7d9d29ce)
 
 
-(![BUG 2 1](https://github.com/user-attachments/assets/bbb3bed2-4b21-4ad4-8f08-e52a1deb0ba8))
+![BUG 2 1](https://github.com/user-attachments/assets/bbb3bed2-4b21-4ad4-8f08-e52a1deb0ba8)
 
-
-(![BUG 3 1](https://github.com/user-attachments/assets/b4ef6874-8081-413e-aae9-ec8e9201080f))
+(![BUG 3 1](https://github.com/user-attachments/assets/b4ef6874-8081-413e-aae9-ec8e9201080f)
 
 ## 1.7 Test Completion
 
@@ -152,6 +151,6 @@ Based on Jira tool, a test execution report focused on the "GUI Testing" cycle w
 * As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
 * The traceability matrix was generated and can be found here: [Jira reports/Traceability_matrix.csv]()
 * Test execution chart was generated, the final report shows that a number 3 tests have failed of a total of 11. A number of 11 test cases were planned for execution and all of them were executed. A number of 3 total bugs were found, from which the priority is: 2 are medium and 1 is low.
-
-(![Dashboards](https://github.com/user-attachments/assets/17af81a5-f313-4f23-81af-115be88994cf))
+  
+![Dashboards](https://github.com/user-attachments/assets/17af81a5-f313-4f23-81af-115be88994cf)
 
