@@ -62,18 +62,23 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **Project risks:**
   
-* *Resource Constraints:* Insufficient skilled personnel, such as developers, testers, or subject matter experts, could hinder project progress and quality.
-* *Budget Overruns:* Exceeding the allocated budget due to incorrect cost estimations, unforeseen expenses, or insufficient resources allocation.
-* *Communication Challenges:* Inadequate communication and coordination among project stakeholders, including testers, the development team, and company representatives, may result in misunderstandings, misalignment, and decision-making delays.
-* *Scope limitation:* Frequent changes in project scope without thorough assessment and impact analysis might disrupt project schedules, resource allocation, and deliverables.
+1.	The risk of not having enough people to work on the project.
+2.  The risk that the team is not sufficiently prepared for projects involving order placements.
+3.  The risk of exceeding the budget due to additional requirements.
+4.	The risk of having incomplete requirements.
+5.	The risk of poor communication with the client and not receiving the necessary information regarding products, prices, and active coupons.
+
   
 **Product risks:**
   
-* *Incomplete or Inaccurate Content:* Presence of inaccuracies, incomplete details, or outdated content on the website could adversely affect the overall user experience.
-* *Security Vulnerability:* Existence of vulnerabilities within the application might expose user data, compromising the platform’s security and trust.
-* *Performance Challenges:* Possibility of delays in processing user actions, slow page loading times, or inadequate performance during periods of high traffic.
-* *Compatibility Issues:* Potential compatibility conflicts with major web browsers, operating systems, or devices may cause usability challenges for certain users.
-* *Functional Deficiencies:* Risk that implemented functionalities may not fully meet the expected requirements, potentially resulting in user dissatisfaction or negative experiences.
+6.	The site content might not be updated or could be incomplete.
+7.	Vulnerable security that could expose user data.
+8.	The risk of the site’s compatibility with different browsers and devices.
+9.	The risk of poor site performance leading to a negative user experience.
+10.	Integration issues with the payment system or inventory management.
+11.	The risk of having an unfriendly user interface, causing users to abandon the purchasing process.
+12.	Functionality issues with key elements such as adding to the cart, payment, etc."
+
 
 #### 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
