@@ -20,7 +20,7 @@ The below 2 Stories were created in JIRA and describe the functional specificati
 
 The detailed report is available here:[Story.csv](Final Project/Story.csv).
 The test cases with steps can be viewed here: [Story.csv](Final Project/Story.csv)
-Bugs have been created based on the failed tests. The complete bug reports can be found here: [Final Project/Story.csv]()
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [Story.csv]()
 
 
 # Testing section
