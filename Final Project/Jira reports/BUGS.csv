@@ -1,0 +1,56 @@
+﻿Project key,Project name,Summary,Issue key,Issue Type,Status,Priority,Created,Updated,Last Viewed,Affects versions,Fix versions,Description,Inward issue link (Relates),Outward issue link (Relates),Status Category,Status Category Changed
+IGCM,irina_gosav_company_managed,Required Field Marking of the quantity selection allows to select over 100 items,IGCM-17,Bug,In Progress,Medium,10/19/2024 23:08,10/20/2024 1:15,10/20/2024 5:59,V1.0,V1.0,"*Steps to reproduce:*
+
+# Open browser and access [lenjeriidelux-pucioasa.ro|https://lenjeriidelux-pucioasa.ro/] website.
+# Access ""Huse"" button
+# Select a product from Huse module.
+# Access the Required Field Marking of the quantity selection  and select the number of items you want to add to cart.
+
+*Expected result:*
+
+# It shouldn't allow to add more than 100 pieces.
+
+*Actual result:*
+
+# More than 100 items can be selected.","IGCM-10
+IGCM-8","IGCM-23
+IGCM-31",In Progress,10/19/2024 23:08
+IGCM,irina_gosav_company_managed,"Recording of  "" Aplica cupon"" Button failed for code "" HusaIepuras""",IGCM-16,Bug,In Progress,Medium,10/19/2024 23:06,10/20/2024 1:12,10/20/2024 5:59,V1.0,V1.0,"*Precondition:*
+
+# You must insert valid codes. The code should not be accepted if is not one of the codes: “Husa2024”, “HusaIepuras”; “Husa5%”
+# More than 11 characters are not accepted.
+
+*Steps to reproduce:*
+
+# Open browser and access [lenjeriidelux-pucioasa.ro|https://lenjeriidelux-pucioasa.ro/] website.
+# Access ""Huse"" button
+# Select a product from Huse module.
+# Access the ""Adauga in cos"" button
+# Click on ""Cod cupon"" field and insert a code.
+# Access ""aplica cupon"" button.
+
+*Expected result:* 
+
+# The total amount to pay should  be updated with the dicount applied.
+
+*Actual result:*
+
+# An error message was displayed for the code “HusaIepuras”","IGCM-8
+IGCM-9","IGCM-22
+IGCM-30",In Progress,10/19/2024 23:06
+IGCM,irina_gosav_company_managed,"“Filtreaza” button failed- The "" Huse"" products page is not updated",IGCM-5,Bug,In Progress,Low,10/19/2024 22:39,10/20/2024 0:53,10/19/2024 23:25,V1.0,V1.0,"*Steps to reproduce:*
+
+# Open browser and access [lenjeriidelux-pucioasa.ro|https://lenjeriidelux-pucioasa.ro/] website.
+#  Access ""Huse"" Button
+# Select the  price.
+# Access “Filtreaza” button.
+
+*Expected result:*
+
+# The  ""Huse"" products with the selected price will be displayed.
+
+*Actual result:*
+
+# Filtreaza buuton failed - the “Huse” product page is not updated. ",IGCM-1,"IGCM-6
+IGCM-18
+IGCM-29",In Progress,10/19/2024 22:39
