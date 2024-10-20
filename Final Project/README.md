@@ -99,7 +99,7 @@ Based on the above requirements, for the Huse module, the testing process will b
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are: 
 
-The test cases with steps can be viewed here: [Huse Module access and navigation.csv]() and [Tests Huse module purchase order.csv]()
+The test cases with steps can be viewed here: [Jira reports/Tests Huse Module access and navigation.csv]() and [Jira reports/Tests Huse module purchase order.csv]()
 
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
