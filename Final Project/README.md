@@ -17,6 +17,12 @@ The below 2 Stories were created in JIRA and describe the functional specificati
 
 ![Story 2](https://github.com/user-attachments/assets/92787184-e1fc-4012-8321-fd11a431be47)
 
+
+The detailed report is available here:[Story.csv](Final Project/Story.csv).
+The test cases with steps can be viewed here: [Story.csv](Final Project/Story.csv)
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [Final Project/Story.csv]()
+
+
 # Testing section
 ## 1.1 Test Planning
 The Test Plan is designed to describe all details of testing for the Huse module from the lenjeriidelux-pucioasa application. 
