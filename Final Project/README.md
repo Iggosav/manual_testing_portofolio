@@ -137,12 +137,26 @@ Test cases are executed:  [Jira reports/Traceability_matrix.csv]()
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Jira reports/BUGS.csv]()
 
-![BUG 1 1](https://github.com/user-attachments/assets/6fd4e8e5-b3e9-4da7-9f0f-834b7d9d29ce)
+**BUG LIST:** 
 
 
-![BUG 2 1](https://github.com/user-attachments/assets/bbb3bed2-4b21-4ad4-8f08-e52a1deb0ba8)
+![BUG  LIST](https://github.com/user-attachments/assets/0bdf8776-001a-4206-afa2-fbdc396b5a35)
 
-(![BUG 3 1](https://github.com/user-attachments/assets/b4ef6874-8081-413e-aae9-ec8e9201080f)
+1.
+
+
+![BUG 1](https://github.com/user-attachments/assets/94a35e9f-9811-467e-b3d3-69ab4236061a)
+
+2.
+
+
+![BUG 2](https://github.com/user-attachments/assets/cbc53c42-eb9a-4000-b7a4-6b9007d3d3ae)
+
+3.
+
+
+![BUG 3](https://github.com/user-attachments/assets/79d2e9eb-cc49-4859-88c7-3b853104a7f3)
+
 
 ## 1.7 Test Completion
 
