@@ -11,7 +11,8 @@ Tools used: JIRA, Zephyr Squad
 The below Stories were created in JIRA and describe the functional specifications of the Huse module, for which the final project is performed upon
 
 
-![Story 1](https://github.com/user-attachments/assets/5eb69dc1-1603-4fea-836e-916cb0e0411e)
+
+![Stories List](https://github.com/user-attachments/assets/98596077-c0ad-4310-9063-2f0204a130e3)
 
 
 
