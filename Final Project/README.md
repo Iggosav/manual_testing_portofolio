@@ -136,7 +136,8 @@ For the Huse module, the testing process will be executed based on the following
 *	Each test case will establish the necessary data and expected outcomes.
 *	Prioritization of test cases will be based on risk and significance.
 
-The test cases with steps can be viewed here: [Jira reports/Test cases- Jira Export CSV (all fields) 20241027061524.csv]()
+The test cases with steps can be viewed here: [Jira reports/Huse Module access and navigation - Cycle Summary  ZFJ-Cycles-10-26-2024.csv]() and [Jira reports/Huse module purchase order Cycle Summary ZFJ-Cycles-10-26-2024.csv]() 
+
 
 ## 1.5 Test Implementation
 
