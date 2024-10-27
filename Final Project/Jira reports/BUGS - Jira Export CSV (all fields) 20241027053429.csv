@@ -1,0 +1,50 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Affects versions,Fix versions,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Custom field (Actual end),Custom field (Actual start),Custom field (Affected hardware),Custom field (Affected services),Custom field (Approvals),Custom field (Asset type),Custom field (Asset type),Custom field (Backout plan),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Department),Custom field (Department),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Goals),Custom field (Impact),Custom field (Implementation plan),Custom field (Investigation reason),Custom field (Issue color),Custom field (Locked forms),Custom field (Major incident),Custom field (Open forms),Custom field (Pending reason),Custom field (Planned end),Custom field (Planned start),Custom field (Priority),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Request language),Custom field (Request participants),Custom field (Responders),Custom field (Root cause),Satisfaction rating,Custom field (Satisfaction date),Custom field (Sentiment),Custom field (Severity),Custom field (Source),Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Test plan),Custom field (Time to close after resolution),Custom field (Time to first response),Custom field (Time to resolution),Custom field (Time to review normal change),Custom field (Total forms),Custom field (Urgency),Custom field (Vulnerability),Custom field (Work category),Custom field (Workaround),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Status Category,Status Category Changed
+Required Field Marking of the quantity selection allows to select over 100 items,IGCM-17,20897,Bug,In Progress,IGCM,irina_gosav_company_managed,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,19/Oct/24 11:08 PM,27/Oct/24 2:35 AM,27/Oct/24 5:27 AM,,V1.0,V1.0,,0,"*Steps to reproduce:*
+
+# Open browser and access [lenjeriidelux-pucioasa.ro|https://lenjeriidelux-pucioasa.ro/] website.
+# Access ""Huse"" button
+# Select a product from Huse module.
+# Access the Required Field Marking of the quantity selection  and select the number of items you want to add to cart.
+
+*Expected result:*
+
+# It shouldn't allow to add more than 100 pieces.
+
+*Actual result:*
+
+# More than 100 items can be selected.",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,IGCM-10,,IGCM-23,IGCM-31,IGCM-8,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3a4d5db2,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i01jqh:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In Progress,19/Oct/24 11:08 PM
+"Recording of  "" Aplica cupon"" Button failed for code "" HusaIepuras""",IGCM-16,20896,Bug,In Progress,IGCM,irina_gosav_company_managed,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Medium,,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,19/Oct/24 11:06 PM,27/Oct/24 2:35 AM,27/Oct/24 5:26 AM,,V1.0,V1.0,,0,"*Precondition:*
+
+# You must insert valid codes. The code should not be accepted if is not one of the codes: “Husa2024”, “HusaIepuras”; “Husa5%”
+# More than 11 characters are not accepted.
+
+*Steps to reproduce:*
+
+# Open browser and access [lenjeriidelux-pucioasa.ro|https://lenjeriidelux-pucioasa.ro/] website.
+# Access ""Huse"" button
+# Select a product from Huse module.
+# Access the ""Adauga in cos"" button
+# Click on ""Cod cupon"" field and insert a code.
+# Access ""aplica cupon"" button.
+
+*Expected result:* 
+
+# The total amount to pay should  be updated with the dicount applied.
+
+*Actual result:*
+
+# An error message was displayed for the code “HusaIepuras”",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,IGCM-9,,IGCM-22,IGCM-30,IGCM-8,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@367ca24e,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i01jq9:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In Progress,19/Oct/24 11:06 PM
+"“Filtreaza” button failed- The "" Huse"" products page is not updated",IGCM-5,20885,Bug,In Progress,IGCM,irina_gosav_company_managed,software,ITF Classes,712020:8ab46ca2-145f-4a56-a13e-bb85ee67acea,,Low,,,,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,19/Oct/24 10:39 PM,27/Oct/24 2:15 AM,27/Oct/24 5:24 AM,,V1.0,V1.0,,0,"*Steps to reproduce:*
+
+# Open browser and access [lenjeriidelux-pucioasa.ro|https://lenjeriidelux-pucioasa.ro/] website.
+#  Access ""Huse"" Button
+# Select the  price.
+# Access “Filtreaza” button.
+
+*Expected result:*
+
+# The  ""Huse"" products with the selected price will be displayed.
+
+*Actual result:*
+
+# Filtreaza buuton failed - the “Huse” product page is not updated. ",,IT Factory,712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67,,,,,,,,,IGCM-1,IGCM-6,IGCM-18,IGCM-29,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@29b9d3bd,,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i01jnt:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In Progress,19/Oct/24 10:39 PM
