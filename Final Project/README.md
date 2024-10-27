@@ -190,7 +190,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 Based on Jira tool, a test execution report focused on the "GUI Testing" cycle was generated. From 2 stories covered with 11 performed tests, 3 tests failed. For the failed tests we identified 1 test with low severity and 2 tests with medium severity. We recommend a careful and focused approach to these failures, including the following aspects: identifying the underlying causes for each failure, determining the impact of each failure on the user experience, and taking the necessary measures for the prompt correction of the identified problems. Our goal is to provide an improved experience in order to avoid users from abandoning the order.
 
 * As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
-* The traceability matrix was generated and can be found here: [Jira reports/Traceability_matrix.csv]()
+* The traceability matrix was generated and can be found here:  [Jira reports/Forward Traceability_27_10_2024.xlsx]()
 * Test execution chart was generated, the final report shows that a number 3 tests have failed of a total of 11. A number of 11 test cases were planned for execution and all of them were executed. A number of 3 total bugs were found, from which the priority is: 2 are medium and 1 is low.
   
 ![Test Execution](https://github.com/user-attachments/assets/f90516fc-b142-4b8d-9446-f3b84ff62579)
