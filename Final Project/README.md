@@ -157,9 +157,9 @@ The test cases with steps can be viewed here: [Jira reports/Tests Huse Module ac
 *	Document any encountered problems or issues during testing.
 *	Perform additional tests to validate defect resolutions.
 
-Test cases are executed:  [Jira reports/Traceability_matrix.csv]()
+Test cases are executed:  [Jira reports/Forward Traceability_27_10_2024.xlsx]()
 
-![Traceability](https://github.com/user-attachments/assets/84fc49b7-07cf-446f-b099-bcddf50a1513)
+![Taceability](https://github.com/user-attachments/assets/0b04b25d-9144-4bf4-aa77-14dcbb4c6be2)
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Jira reports/BUGS.csv]()
 
