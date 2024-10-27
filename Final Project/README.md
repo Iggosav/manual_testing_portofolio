@@ -80,7 +80,7 @@ The plan identifies the items to be tested, the features to be tested, the types
   
 **Product risks:**
   
-6.	The site content might not be updated or could be incomplete.
+6.	In case that the training provided to the team is not complete the site content might not be updated or could be incomplete 
 7.	Vulnerable security that could expose user data.
 8.	The risk of the site’s compatibility with different browsers and devices.
 9.	The risk of poor site performance leading to a negative user experience.
