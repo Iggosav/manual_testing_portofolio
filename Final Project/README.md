@@ -186,7 +186,8 @@ The test cases with steps can be viewed here: [Jira reports/Huse Module access a
 
 Traceability matrix report can be viewed here:  [Jira reports/Forward Traceability_27_10_2024.xlsx]()
 
-![Taceability](https://github.com/user-attachments/assets/0b04b25d-9144-4bf4-aa77-14dcbb4c6be2)
+
+![Traceability](https://github.com/user-attachments/assets/2af2c5ef-b797-4019-8682-d24949ed2fbe)
 
 According to the Traceability matrix 7 stories covered with 7 performed tests passed and 3 stories covered with 3 performed tests failed.
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Jira reports/BUGS - Jira Export CSV (all fields) 20241027053429.csv]()
