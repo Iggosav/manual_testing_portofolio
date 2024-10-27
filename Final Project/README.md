@@ -192,5 +192,5 @@ Based on Jira tool, a test execution report focused on the "GUI Testing" cycle w
 * The traceability matrix was generated and can be found here: [Jira reports/Traceability_matrix.csv]()
 * Test execution chart was generated, the final report shows that a number 3 tests have failed of a total of 11. A number of 11 test cases were planned for execution and all of them were executed. A number of 3 total bugs were found, from which the priority is: 2 are medium and 1 is low.
   
-![Dashboards](https://github.com/user-attachments/assets/17af81a5-f313-4f23-81af-115be88994cf)
+![Test Execution](https://github.com/user-attachments/assets/f90516fc-b142-4b8d-9446-f3b84ff62579)
 
