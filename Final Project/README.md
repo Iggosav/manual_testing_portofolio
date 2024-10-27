@@ -88,7 +88,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 11.	The risk of having an unfriendly user interface, causing users to abandon the purchasing process.
 12.	Functionality issues with key elements such as adding to the cart, payment, etc."
 
-![RISK MATRIX](https://github.com/user-attachments/assets/9371246d-91d8-4963-b00e-7290bc2a98bf)
+
+![RISK MATRIX](https://github.com/user-attachments/assets/2861d0ae-ec2d-466f-9cb2-c1e35001b3d3)
 
 #### 1.1.6 Evaluating entry criteria
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
