@@ -161,7 +161,7 @@ Test cases are executed:  [Jira reports/Forward Traceability_27_10_2024.xlsx]()
 
 ![Taceability](https://github.com/user-attachments/assets/0b04b25d-9144-4bf4-aa77-14dcbb4c6be2)
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: [Jira reports/BUGS.csv]()
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [Jira reports/BUGS - Jira Export CSV (all fields) 20241027053429.csv]()
 
 **BUG LIST:** 
 
@@ -171,17 +171,17 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 1.
 
 
-![BUG 1](https://github.com/user-attachments/assets/94a35e9f-9811-467e-b3d3-69ab4236061a)
+![BUG1](https://github.com/user-attachments/assets/08bf9a7a-7f53-43a9-8583-db417ee50589)
 
 2.
 
 
-![BUG 2](https://github.com/user-attachments/assets/cbc53c42-eb9a-4000-b7a4-6b9007d3d3ae)
+![BUG2](https://github.com/user-attachments/assets/b6480442-8b86-404e-ae61-5e60e6277ad4)
 
 3.
 
 
-![BUG 3](https://github.com/user-attachments/assets/79d2e9eb-cc49-4859-88c7-3b853104a7f3)
+![BUG3](https://github.com/user-attachments/assets/b99580d2-63dd-4624-9c24-19dfd1045c4a)
 
 
 ## 1.7 Test Completion
