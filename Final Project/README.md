@@ -136,6 +136,26 @@ For the Huse module, the testing process will be executed based on the following
 *	Each test case will establish the necessary data and expected outcomes.
 *	Prioritization of test cases will be based on risk and significance.
 
+  
+![Test 1](https://github.com/user-attachments/assets/272831ce-cf59-4568-82fb-a1c4988cc045)
+![Test 2](https://github.com/user-attachments/assets/a16b0358-57da-4897-a78d-d1f9784d1078)
+![Test 3](https://github.com/user-attachments/assets/ad1e0d66-4340-4309-b7d8-e04cc7331d3a)
+![Test 4](https://github.com/user-attachments/assets/56a7ccd2-07b6-4200-ac61-ac6c7a4b8055)
+![Test 5](https://github.com/user-attachments/assets/d20af88f-385f-4a1a-8439-e751deaabe40)
+![Test 6](https://github.com/user-attachments/assets/929c11d2-7929-4ff9-b271-157e8e99b4d7)
+![Test 7 1](https://github.com/user-attachments/assets/0c2c8ba8-12dd-46b9-8b9e-e36a06636744)
+
+
+![Test 7 2](https://github.com/user-attachments/assets/98ac3c67-f381-4d15-9f87-329ccfb0ab6a)
+![Test 8 1](https://github.com/user-attachments/assets/7c3523de-8544-423d-8964-9feb8e63dfcc)
+
+
+![Test 8 2](https://github.com/user-attachments/assets/65717302-22b8-4845-878c-9ca546f034ab)
+![Test 9](https://github.com/user-attachments/assets/7a5b7ff5-6278-4b53-bd08-505c3904687d)
+![Test 10](https://github.com/user-attachments/assets/ce34d1db-7371-49c0-9b12-568505436375)
+![Test 11](https://github.com/user-attachments/assets/448277ff-ec63-4e81-ab2e-19db589777c6)
+
+
 The test cases with steps can be viewed here: [Jira reports/Huse Module access and navigation - Cycle Summary  ZFJ-Cycles-10-26-2024.csv]() and [Jira reports/Huse module purchase order Cycle Summary ZFJ-Cycles-10-26-2024.csv]() 
 
 
