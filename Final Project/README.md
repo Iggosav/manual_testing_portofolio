@@ -15,12 +15,20 @@ The below Stories were created in JIRA and describe the functional specification
 ![Stories List](https://github.com/user-attachments/assets/98596077-c0ad-4310-9063-2f0204a130e3)
 
 
+![Story 1](https://github.com/user-attachments/assets/cb11a22e-e476-410b-ac0c-66b846be45d3)
+![Story 2](https://github.com/user-attachments/assets/cbddc883-3cf7-4fc9-8361-1c3f838697d9)
+![Story 3](https://github.com/user-attachments/assets/ef9a618f-1963-4c37-a78a-ff090a2d6f68)
+![Story 4](https://github.com/user-attachments/assets/532c4f12-f35f-4092-addf-7652c9c46de3)
+![Story 5](https://github.com/user-attachments/assets/e7bbd75e-b20a-4eda-a2b4-38a58da79d2e)
+![Story 6](https://github.com/user-attachments/assets/ecae8145-ed6b-4fd9-9c36-4f99e0d737f6)
+![Story 7](https://github.com/user-attachments/assets/64d120bc-c1b8-4914-8e8c-6e174f93240f)
+![Story 8](https://github.com/user-attachments/assets/254ad8a1-74f6-48ac-a714-ed66853770eb)
+![Story 9](https://github.com/user-attachments/assets/130f08f9-5bf9-40eb-b22c-218fca687ba1)
+![Story 10](https://github.com/user-attachments/assets/360aeb9c-a567-49cb-8e69-78ab8d7727f3)
+![Story 11](https://github.com/user-attachments/assets/fc432059-8e80-4f65-98fe-009cab4dfe88)
 
-![Story 2](https://github.com/user-attachments/assets/92787184-e1fc-4012-8321-fd11a431be47)
 
-
-The detailed report is available here: [Jira reports/Test cases- Jira Export CSV (all fields) 20241027061524.csv]()
-
+The detailed stories report is available here: [Jira reports/Stories Jira Export CSV (all fields) 20241027080116.csv]()
 
 
 # Testing section
