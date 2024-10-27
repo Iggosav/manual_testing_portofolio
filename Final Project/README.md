@@ -8,7 +8,7 @@ Tools used: JIRA, Zephyr Squad
 
 # Functional specifications
 
-The below 2 Stories were created in JIRA and describe the functional specifications of the Huse module, for which the final project is performed upon
+The below Stories were created in JIRA and describe the functional specifications of the Huse module, for which the final project is performed upon
 
 
 ![Story 1](https://github.com/user-attachments/assets/5eb69dc1-1603-4fea-836e-916cb0e0411e)
@@ -18,7 +18,7 @@ The below 2 Stories were created in JIRA and describe the functional specificati
 ![Story 2](https://github.com/user-attachments/assets/92787184-e1fc-4012-8321-fd11a431be47)
 
 
-The detailed report is available here: [Story.csv]()
+The detailed report is available here: [Jira reports/Test cases- Jira Export CSV (all fields) 20241027061524.csv]()
 
 
 
