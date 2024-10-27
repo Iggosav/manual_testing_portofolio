@@ -89,13 +89,39 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 Regular tests status reports will be generated weekly to reflect testing progress and identify new project risk for mitigation.
 
 ## 1.3 Test Analysis
-Based on the above requirements, for the Huse module, the testing process will be executed based on the following test conditions:
 
-*	Ensure the correct main interface is displayed. 
-* Validate the “ Huse Menu” button and ensure the Huse module is created/updated.
-* Make sure that the next buttons from Huse module are functional: “Filtreaza”, "Sorteaza dupa” and “Adauga in cos”.
+For the Huse module, the testing process will be executed based on the following test conditions:
+
+* Understand the essential functionalities required by the business and the expectations for user satisfaction
+* Set up the test method, test categories, and techniques used.
+* Outline the conditions that need to be tested.
+* Test the UI (Graphic User Interface)to confirm that all interactive elements, like buttons and input fields perform as expected.
+
+## Techniques used for GUI (Graphical user interface) testing include:
+
+* Positive testing: Confirms that input fields and elements work correctly when valid data is entered, meeting specified requirements.
+* Negative testing: Verifies that fields do not accept invalid or incorrect data, ensuring improper inputs are blocked.
+* Boundary value analysis testing: Test the extreme limits of input fields by entering the smallest and largest acceptable values.
+* Equivalent Partitioning Testing: Organizes input data into categories or groups, with each group represented by test cases to nsure consistent behavior across all variations.
+
+## Test Conditions for "Huse" module:
+
+
+* Validation of Correct Interface Display - Ensures that the interface is displayed properly, providing a smooth and intuitive user experience..
+* Testing of the "Huse Menu" button - This condition focuses on ensuring that the “Huse Menu” button works correctly and performs the intended functionality.
+* Testing of the "Filtreaza" button - This condition focuses on ensuring that the “Filtreaza” button works correctly and performs the intended functionality.
+* Testing of the "Sorteaza dupa" button - This condition focuses on ensuring that the “Sorteaza dupa” button works correctly and performs the intended functionality.
+* Testing of the "Adauga in cos" button - This condition focuses on ensuring that the “Adauga in cos” button works correctly and performs the intended functionality.
 * Enter data for the required field to choose the desired quantity of the product and validate if it is correctly registered.
-* Make sure that the next buttons from Huse module are functional: “Continua cumparaturile”, “Actualizeaza cosul”, “Aplica cupon and “Plaseaza comanda”.
+* Testing of the "Continua cumparaturile" button - This condition focuses on ensuring that the “Continua cumparaturile” button works correctly and performs the intended functionality.
+* Testing of the "Actualizeaza cosul" button - This condition focuses on ensuring that the “Actualizeaza cosul” button works correctly and performs the intended functionality.
+* Recording discounts with valid Information - Checks that the discount is successfully applied when the inserted code from "Cod cupon" filed is valid.
+* Non-Recording of discounts with invalid information: Ensures that the discount is not recorded if incorrect or invalid code is entered in "Cod cupon" field. When the user enters incorrect or invalid data in the field, we will check that an error message will be generated and the discount is not recorded.
+* Testing of the "Aplica cupon" button - This condition focuses on ensuring that the “Aplica cupon” button works correctly and performs the intended functionality.
+* Confirmation of Required Field Indicators: Verifies that all mandatory fields in the form are clearly marked, indicating that they are required for submission.
+* Testing of the "Plaseaza comanda" button - This condition focuses on ensuring that the “Plaseaza comanda” button works correctly and performs the intended functionality.
+
+    These conditions provide a structured approach to verifying that all essential functionalities work as expected for a seamless user experience.
 
 ## 1.4 Test Design
 
