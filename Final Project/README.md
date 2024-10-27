@@ -123,6 +123,12 @@ For the Huse module, the testing process will be executed based on the following
 
     These conditions provide a structured approach to verifying that all essential functionalities work as expected for a seamless user experience.
 
+  
+  ![Test condition](https://github.com/user-attachments/assets/61f0eb77-280b-4cb4-8ab9-1dbfb9623a0f)
+
+  The test cases can be viewed here: [Jira reports/Test cases- Jira Export CSV (all fields) 20241027061524.csv]()
+
+
 ## 1.4 Test Design
 
 *	The Zephyr Squad tool aims to streamline the creation of functional test cases. Techniques such as positive testing, negative testing, and use case testing will be utilized for crafting test cases through specification analysis.
@@ -130,13 +136,7 @@ For the Huse module, the testing process will be executed based on the following
 *	Each test case will establish the necessary data and expected outcomes.
 *	Prioritization of test cases will be based on risk and significance.
 
-
-![TEST LIST 1](https://github.com/user-attachments/assets/45b87f67-6960-41d7-b859-b7b746b91a28)
-
-
-![TEST LIST 2](https://github.com/user-attachments/assets/488ebbbe-cf39-4b21-b6ab-97740d37fbc6)
-
-The test cases with steps can be viewed here: [Jira reports/Tests Huse Module access and navigation.csv]() and [Jira reports/Tests Huse module purchase order.csv]()
+The test cases with steps can be viewed here: [Jira reports/Test cases- Jira Export CSV (all fields) 20241027061524.csv]()
 
 ## 1.5 Test Implementation
 
