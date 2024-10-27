@@ -134,7 +134,7 @@ For the Huse module, the testing process will be executed based on the following
     These conditions provide a structured approach to verifying that all essential functionalities work as expected for a seamless user experience.
 
   
-  ![Test condition](https://github.com/user-attachments/assets/61f0eb77-280b-4cb4-8ab9-1dbfb9623a0f)
+![Test condition](https://github.com/user-attachments/assets/f814307d-85ff-464f-a893-90d0885b870b)
 
   The test cases can be viewed here: [Jira reports/Test cases- Jira Export CSV (all fields) 20241027061524.csv]()
 
