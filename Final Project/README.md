@@ -28,7 +28,7 @@ The below Stories were created in JIRA and describe the functional specification
 ![Story 11](https://github.com/user-attachments/assets/fc432059-8e80-4f65-98fe-009cab4dfe88)
 
 
-The detailed stories report is available here: [Jira reports/Stories Jira Export CSV (all fields) 20241027080116.csv]()
+The detailed stories report is available here: [Stories Jira Export Excel CSV (all fields) 20241108111241.csv](https://github.com/user-attachments/files/17677215/Stories.Jira.Export.Excel.CSV.all.fields.20241108111241.csv)
 
 
 # Testing section
@@ -136,7 +136,7 @@ For the Huse module, the testing process will be executed based on the following
   
 ![Test condition](https://github.com/user-attachments/assets/f814307d-85ff-464f-a893-90d0885b870b)
 
-  The test cases can be viewed here: [Jira reports/Test cases- Jira Export CSV (all fields) 20241027061524.csv]()
+  The test cases can be viewed here: [Test cases- Jira Export Excel CSV (all fields) 20241108111111.csv](https://github.com/user-attachments/files/17677217/Test.cases-.Jira.Export.Excel.CSV.all.fields.20241108111111.csv)
 
 
 ## 1.4 Test Design
@@ -159,7 +159,7 @@ For the Huse module, the testing process will be executed based on the following
 ![Test 10](https://github.com/user-attachments/assets/45075010-73b1-4b4b-8d68-6ede18814fa1)
 ![Test 11](https://github.com/user-attachments/assets/035352c7-146b-4719-8ae5-466a90360b26)
 
-The test cases with steps can be viewed here: [Jira reports/Huse Module access and navigation - Cycle Summary  ZFJ-Cycles-10-26-2024.csv]() and [Jira reports/Huse module purchase order Cycle Summary ZFJ-Cycles-10-26-2024.csv]() 
+The test cases with steps can be viewed here: [Huse  module purchase order Cycle Summary  ZFJ-Cycles-11-08-2024.csv](https://github.com/user-attachments/files/17677231/Huse.module.purchase.order.Cycle.Summary.ZFJ-Cycles-11-08-2024.csv) and [Huse Module access and navigation Cycle Summary  ZFJ-Cycles-11-08-2024.csv](https://github.com/user-attachments/files/17677232/Huse.Module.access.and.navigation.Cycle.Summary.ZFJ-Cycles-11-08-2024.csv)
 
 
 ## 1.5 Test Implementation
@@ -181,13 +181,13 @@ The test cases with steps can be viewed here: [Jira reports/Huse Module access a
 *	Document any encountered problems or issues during testing.
 *	Perform additional tests to validate defect resolutions.
 
-Traceability matrix report can be viewed here:  [Jira reports/Forward Traceability_27_10_2024.xlsx]()
+Traceability matrix report can be viewed here:  [Forward Traceability_8_11_2024.xlsx](https://github.com/user-attachments/files/17677240/Forward.Traceability_8_11_2024.xlsx)
 
 
 ![Traceability matrix](https://github.com/user-attachments/assets/66ba94fe-1aaf-472f-972b-4995d2fbb252)
 
 According to the Traceability matrix 7 stories covered with 7 performed tests passed and 3 stories covered with 3 performed tests failed.
-Bugs have been created based on the failed tests. The complete bug reports can be found here: [Jira reports/BUGS - Jira Export CSV (all fields) 20241027053429.csv]()
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [Bugs Jira Export Excel CSV (all fields) 20241108111320.csv](https://github.com/user-attachments/files/17677241/Bugs.Jira.Export.Excel.CSV.all.fields.20241108111320.csv)
 
 **BUG LIST:** 
 
@@ -215,7 +215,7 @@ Bugs have been created based on the failed tests. The complete bug reports can b
 Based on Jira tool, a test execution report focused on the "GUI Testing" cycle was generated. From 11 stories covered with 11 performed tests, 3 tests failed. For the failed tests we identified 1 test with low severity and 2 tests with medium severity. We recommend a careful and focused approach to these failures, including the following aspects: identifying the underlying causes for each failure, determining the impact of each failure on the user experience, and taking the necessary measures for the prompt correction of the identified problems. Our goal is to provide an improved experience in order to avoid users from abandoning the order.
 
 * As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
-* The traceability matrix was generated and can be found here:  [Jira reports/Forward Traceability_27_10_2024.xlsx]()
+* The traceability matrix was generated and can be found here:  [Forward Traceability_8_11_2024.xlsx](https://github.com/user-attachments/files/17677240/Forward.Traceability_8_11_2024.xlsx)
 * Test execution chart was generated, the final report shows that a number 3 tests have failed of a total of 11. A number of 11 test cases were planned for execution and all of them were executed. A number of 3 total bugs were found, from which the priority is: 2 are medium and 1 is low.
   
 ![Test Execution](https://github.com/user-attachments/assets/f90516fc-b142-4b8d-9446-f3b84ff62579)
