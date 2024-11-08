@@ -147,20 +147,17 @@ For the Huse module, the testing process will be executed based on the following
 *	Prioritization of test cases will be based on risk and significance.
 
   
-![Test 1](https://github.com/user-attachments/assets/272831ce-cf59-4568-82fb-a1c4988cc045)
-![Test 2](https://github.com/user-attachments/assets/a16b0358-57da-4897-a78d-d1f9784d1078)
-![Test 3](https://github.com/user-attachments/assets/ad1e0d66-4340-4309-b7d8-e04cc7331d3a)
-![Test 4](https://github.com/user-attachments/assets/56a7ccd2-07b6-4200-ac61-ac6c7a4b8055)
-![Test 5](https://github.com/user-attachments/assets/d20af88f-385f-4a1a-8439-e751deaabe40)
-![Test 6](https://github.com/user-attachments/assets/e0bcab07-0ea2-4741-95e3-3e6250f27eea)
-![Test 7 1](https://github.com/user-attachments/assets/0c2c8ba8-12dd-46b9-8b9e-e36a06636744)
-![Test 7 2](https://github.com/user-attachments/assets/98ac3c67-f381-4d15-9f87-329ccfb0ab6a)
-![Test 8 1](https://github.com/user-attachments/assets/7c3523de-8544-423d-8964-9feb8e63dfcc)
-![Test 8 2](https://github.com/user-attachments/assets/65717302-22b8-4845-878c-9ca546f034ab)
-![Test 9](https://github.com/user-attachments/assets/7a5b7ff5-6278-4b53-bd08-505c3904687d)
-![Test 10](https://github.com/user-attachments/assets/ce34d1db-7371-49c0-9b12-568505436375)
-![Test 11](https://github.com/user-attachments/assets/448277ff-ec63-4e81-ab2e-19db589777c6)
-
+![Test 1](https://github.com/user-attachments/assets/c8ae35c1-3153-4d6c-a41f-01ead854b108)
+![Test 2](https://github.com/user-attachments/assets/f82d565a-077b-4c35-bf03-d3c6d793f793)
+![Test 3](https://github.com/user-attachments/assets/e03d0fe4-636a-4deb-a0f6-500672e1c649)
+![Test 4](https://github.com/user-attachments/assets/1aad4b23-9459-4094-a0a6-e64df495e0dd)
+![Test 5](https://github.com/user-attachments/assets/3c37c015-6209-420a-944f-64dc28a5444e)
+![Test 6](https://github.com/user-attachments/assets/e69baaaa-aaf2-4db4-9393-6a977e42eb00)
+![Test 7](https://github.com/user-attachments/assets/bab4af8c-622c-466d-9fa9-35214fef7d01)
+![Test 8](https://github.com/user-attachments/assets/e32192f7-1f79-4e11-aedf-3a1bb323ffeb)
+![Test 9](https://github.com/user-attachments/assets/e32350f9-1c4e-468d-9802-dd2d8b679e5f)
+![Test 10](https://github.com/user-attachments/assets/45075010-73b1-4b4b-8d68-6ede18814fa1)
+![Test 11](https://github.com/user-attachments/assets/035352c7-146b-4719-8ae5-466a90360b26)
 
 The test cases with steps can be viewed here: [Jira reports/Huse Module access and navigation - Cycle Summary  ZFJ-Cycles-10-26-2024.csv]() and [Jira reports/Huse module purchase order Cycle Summary ZFJ-Cycles-10-26-2024.csv]() 
 
@@ -187,7 +184,7 @@ The test cases with steps can be viewed here: [Jira reports/Huse Module access a
 Traceability matrix report can be viewed here:  [Jira reports/Forward Traceability_27_10_2024.xlsx]()
 
 
-![Traceability](https://github.com/user-attachments/assets/2af2c5ef-b797-4019-8682-d24949ed2fbe)
+![Traceability matrix](https://github.com/user-attachments/assets/66ba94fe-1aaf-472f-972b-4995d2fbb252)
 
 According to the Traceability matrix 7 stories covered with 7 performed tests passed and 3 stories covered with 3 performed tests failed.
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [Jira reports/BUGS - Jira Export CSV (all fields) 20241027053429.csv]()
